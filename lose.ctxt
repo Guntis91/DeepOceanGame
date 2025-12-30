@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=lose
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ class\ provides\ a\ visual\ representation\ of\ the\ game\ over\ screen\ and\ displays\ the\ final\ score\r\n\ achieved\ by\ the\ player,\ allowing\ them\ to\ see\ their\ performance\ at\ the\ end\ of\ the\ game.\r\n\ @author\ Guntis\ Subrovskis\ \r\n\ @version\ 1.0\r\n
+comment1.params=score
+comment1.target=lose(int)
+comment2.params=score
+comment2.target=void\ prepare(int)
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoreBoard\ here.\r\n\ class\ is\ responsible\ for\ keeping\ track\ of\ the\ \r\n\ player's\ score\ in\ a\ game.\ It\ provides\ methods\ to\ \r\n\ add\ points\ to\ the\ score,\ retrieve\ the\ current\ score\ \r\n\ value,\ and\ reset\ the\ score\ to\ zero.\ The\ class\ also\ updates\ \r\n\ the\ visual\ representation\ of\ the\ score\ on\ the\ screen.\r\n\ @author\ Guntis\ Subrovskis\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=points
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=
+comment5.target=void\ updateImage()
+numComments=6

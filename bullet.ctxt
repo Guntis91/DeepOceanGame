@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=bullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ bullet\ here.\r\n\ The\ bullet\ has\ an\ image\ associated\ with\ it,\ \r\n\ which\ is\ scaled\ to\ a\ smaller\ size.\ When\ the\ bullet\r\n\ acts,\ it\ moves\ forward\ at\ a\ speed\ of\ 5\ units.\ If\ the\ \r\n\ bullet\ reaches\ the\ edge\ of\ the\ world\ or\ hits\ the\ target\ (attackers),\ \r\n\ it\ is\ removed\ from\ the\ game.\r\n\ class\ resposible\ of\ the\ behavior\ and\ appearance\ of\ a\ bullet\ in\ the\ game.\r\n\ @author\ Guntis\ Subrovskis\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=bullet()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

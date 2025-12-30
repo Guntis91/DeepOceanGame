@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=cannon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ cannon\ here.\r\n\ class\ provides\ functionality\ for\ rotating\ the\ cannon,\ shooting\ bullets,\ \r\n\ and\ checking\ for\ game\ over\ conditions\ when\ the\ cannon\ intersects\ with\ attackers.\r\n\ @author\ Guntis\ Subrovskis\r\n\ @version\ 1.0\r\n
+comment1.params=scoreboard
+comment1.target=cannon(ScoreBoard)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fire()
+comment4.params=
+comment4.target=void\ checkGameOver()
+numComments=5

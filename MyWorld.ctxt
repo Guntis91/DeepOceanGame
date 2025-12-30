@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ MyWorld\ manages\ the\ game\ environment,\ including\ the\ placement\ of\ actors,\ \r\n\ handling\ player\ input,\ and\ updating\ the\ game\ state.\ It\ keeps\ track\ \r\n\ of\ the\ score,\ increments\ it\ when\ attackers\ are\ removed,\ and\ increases\ \r\n\ the\ speed\ as\ the\ player\ progresses.\ The\ world\ contains\ a\ cannon\ actor\ \r\n\ that\ the\ player\ controls.\ Players\ are\ prompted\ to\ enter\ their\ name\ at\ \r\n\ the\ start\ of\ the\ game.\ The\ class\ provides\ methods\ to\ reset\ the\ game\ and\ \r\n\ update\ the\ score.\r\n\ @author\ Guntis\ Subrovskis\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addActor()
+comment4.params=actor
+comment4.target=void\ removeObject(greenfoot.Actor)
+comment5.params=
+comment5.target=void\ resetGame()
+comment6.params=
+comment6.target=void\ prepare()
+numComments=7
